@@ -1,2 +1,2 @@
-# Zhao-J-s-research-group
-Projects created by Zhao J`s research group, which is used for learning and collaboration!
+# Shi Hongda
+Projects created by Shi Hongda, which is used for learning and collaboration!
